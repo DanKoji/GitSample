@@ -11,7 +11,13 @@
 public class gitsample {
     public static void main(String[] args) {
         
-        System.out.println("Git sample test!!");
         
     }
+    
+    public void git(){
+        
+        System.out.println("git git");
+    
+    }
+    
 }
