@@ -20,4 +20,10 @@ public class gitsample {
     
     }
     
+    public void Japanese(){
+    
+        System.out.println("ギットって英語？");
+        System.out.println("メッセージ"+"です。");
+    
+    }
 }
