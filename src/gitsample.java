@@ -11,7 +11,7 @@
 public class gitsample {
     public static void main(String[] args) {
         
-        
+        System.out.println("sample difference");
     }
     
     public void git(){
@@ -24,6 +24,6 @@ public class gitsample {
     
         System.out.println("ギットって英語？");
         System.out.println("メッセージ"+"です。");
-    
+        System.out.println("aaaaa");
     }
 }
