@@ -11,9 +11,10 @@ package GItpackage;
  */
 public class GitClass {
     private int num;
-    public GitClass(){}
-    public int getNum(){
-    
+    public GitClass(){
+    }
+    public int getNum(int num){
+        this.num = num;
     return num;
     }
     public  void setNum(int num){
